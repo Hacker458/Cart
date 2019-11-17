@@ -1,0 +1,26 @@
+.form-control {
+    width: 500px;
+}
+
+.container {
+    max-width: 960px !important;
+}
+
+a {
+    margin: 10px;
+}
+
+table
+{
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+th {
+    background: #ccc;
+    text-align: left;
+}
+td, th {
+    border: 1px solid #800;
+    padding: 10px;
+    text-align: center;
+}
